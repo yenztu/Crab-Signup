@@ -1,0 +1,20 @@
+.header {
+	color: #FF00FB;
+}
+
+.header2 {
+	color: #FF00FB;
+}
+
+.music {
+	color: #FFFFFF;
+}
+
+body {
+	text-align: center;
+	background-image: url("crab.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 100%;
+}
